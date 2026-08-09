@@ -134,16 +134,6 @@ npm run dev
 - **Backend**: Java 21 LTS, Spring Boot 3.2.3, Spring Data JPA, H2 In-Memory DB, JSoup 1.17+, Apache Commons Codec, `com.xposedornot` Java SDK.
 - **Frontend**: React 18.2, Vite 5.0, Tailwind CSS 3.4, Lucide React Icons, Google Identity Services SDK (`gsi/client`), Axios.
 - **DevOps**: Docker, Docker Compose, Nginx, GitHub Actions CI/CD ready.
-
----
-
-## 🎓 Academic Attribution & Credits
-
-This project was developed as a **B.Tech Major Project** at **IEC College of Engineering & Technology, Greater Noida**.
-
-- **Author / Developer**: **Vineet Kumar Upadhyay** (Roll No.: `2300900100170`)
-- **Department**: Department of Computer Science and Engineering (CSE)
-- **Project Guide**: **Mr. Arvind Kumar** *(Assistant Professor)*
 - **Head of Department**: **Prof. Vipin Kr. Kushwaha** *(HOD CSE/IT)*
 - **Affiliation**: Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
 
